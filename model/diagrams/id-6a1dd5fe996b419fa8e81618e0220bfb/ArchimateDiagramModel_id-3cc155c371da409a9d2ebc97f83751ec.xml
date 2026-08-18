@@ -1403,6 +1403,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-004c8e63b519438cb75352c8dd615c71"
         targetConnections="id-85251bd480764b22b7ae3b7a81d82acf">
+      <features
+          name="labelExpression"
+          value="10.10.10.126"/>
       <bounds
           x="24"
           y="108"

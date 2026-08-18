@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infra GIAP"
+    id="id-e73a5252861c45f4a760f3925c3990af">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-29591e3133f64cf083bbe188ce27f1bc.xml#id-29591e3133f64cf083bbe188ce27f1bc"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-a1b83977ac9f44abbd9d98f2e39a7420.xml#id-a1b83977ac9f44abbd9d98f2e39a7420"/>
+</archimate:ServingRelationship>

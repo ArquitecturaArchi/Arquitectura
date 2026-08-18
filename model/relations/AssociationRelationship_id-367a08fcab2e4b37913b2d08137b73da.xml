@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requ/Resp Reserva Capacidad"
+    id="id-367a08fcab2e4b37913b2d08137b73da">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-1e3c4b2a7fa44b5789e4c57860c16bb5.xml#id-1e3c4b2a7fa44b5789e4c57860c16bb5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1fd3e9231145489e912a14590bebf2e7.xml#id-1fd3e9231145489e912a14590bebf2e7"/>
+</archimate:AssociationRelationship>

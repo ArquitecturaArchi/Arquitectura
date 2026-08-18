@@ -1289,6 +1289,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9c0ae4396abd40728532c4c47fd5e0b1"
         targetConnections="id-5071cb8cdbdd48e49805610e29513c22">
+      <features
+          name="labelExpression"
+          value="Servidor Aplicaciones&#xD;&#xA;IP 10.10.25.145"/>
       <bounds
           x="24"
           y="48"
@@ -1398,19 +1401,19 @@
         x="516"
         y="876"
         width="183"
-        height="192"/>
+        height="247"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-004c8e63b519438cb75352c8dd615c71"
         targetConnections="id-85251bd480764b22b7ae3b7a81d82acf">
       <features
           name="labelExpression"
-          value="Servidor base de Datos&#xD;&#xA;10.10.10.126"/>
+          value="UIM&#xD;&#xA;Servidor base de Datos&#xD;&#xA;10.10.10.126"/>
       <bounds
           x="24"
-          y="108"
+          y="144"
           width="120"
-          height="55"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
           href="SystemSoftware_id-e23eedeeb1c44252b8f17f1186c2985f.xml#id-e23eedeeb1c44252b8f17f1186c2985f"/>
@@ -1421,12 +1424,12 @@
         targetConnections="id-7690457ffac9488fb82e2baf8b4c1092">
       <features
           name="labelExpression"
-          value="Servidor Aplicaciones&#xD;&#xA;IP 10.10.25.125"/>
+          value="UIM&#xD;&#xA;Servidor Aplicaciones&#xD;&#xA;IP 10.10.25.125"/>
       <bounds
           x="24"
           y="48"
           width="120"
-          height="55"/>
+          height="85"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
           href="SystemSoftware_id-c0d561c3b92f47b6b272e1f8f323fe84.xml#id-c0d561c3b92f47b6b272e1f8f323fe84"/>

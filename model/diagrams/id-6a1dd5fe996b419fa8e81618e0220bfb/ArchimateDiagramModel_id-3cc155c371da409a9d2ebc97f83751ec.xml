@@ -1405,7 +1405,7 @@
         targetConnections="id-85251bd480764b22b7ae3b7a81d82acf">
       <features
           name="labelExpression"
-          value="10.10.10.126"/>
+          value="Servidor base de Datos&#xD;&#xA;10.10.10.126"/>
       <bounds
           x="24"
           y="108"
@@ -1419,6 +1419,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a8ac0f314e654c679090eb5f56028ce9"
         targetConnections="id-7690457ffac9488fb82e2baf8b4c1092">
+      <features
+          name="labelExpression"
+          value="Servidor Aplicaciones&#xD;&#xA;IP 10.10.25.125"/>
       <bounds
           x="24"
           y="48"

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infra OSM"
+    id="id-1c1747281e2b4ecb9948e77a5e9ebc4d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-946130988bba49efab0ad60a9f138f74.xml#id-946130988bba49efab0ad60a9f138f74"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-3c14c345475b484f9bb002effd461350.xml#id-3c14c345475b484f9bb002effd461350"/>
+</archimate:ServingRelationship>

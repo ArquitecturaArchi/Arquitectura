@@ -1,0 +1,45 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01 - eTOM Nivel 0 - Vista Ejecutiva"
+    id="view-01">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="view-01-node-01"
+      textAlignment="1">
+    <bounds
+        x="80"
+        y="60"
+        width="520"
+        height="90"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_grouping-business-strategy-infrastructure-product.xml#grouping-business-strategy-infrastructure-product"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="view-01-node-02"
+      textAlignment="1">
+    <bounds
+        x="80"
+        y="210"
+        width="520"
+        height="90"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_grouping-business-operations.xml#grouping-business-operations"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="view-01-node-03"
+      textAlignment="1">
+    <bounds
+        x="80"
+        y="360"
+        width="520"
+        height="90"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_grouping-business-enterprise-management.xml#grouping-business-enterprise-management"/>
+  </children>
+</archimate:ArchimateDiagramModel>

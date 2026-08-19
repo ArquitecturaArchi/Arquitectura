@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-0026">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_grouping-business-enterprise-management.xml#grouping-business-enterprise-management"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_businessprocess-strategic-enterprise-planning.xml#businessprocess-strategic-enterprise-planning"/>
+</archimate:CompositionRelationship>

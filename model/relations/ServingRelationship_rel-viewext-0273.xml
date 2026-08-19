@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Habilita"
+    id="rel-viewext-0273">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_capability-revenue-management-capability.xml#capability-revenue-management-capability"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_businessprocess-billing-operations.xml#businessprocess-billing-operations"/>
+</archimate:ServingRelationship>

@@ -18,15 +18,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="view-10-node-02">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ee1df62916ad4270a2099c539f194832"
-        source="view-10-node-02"
-        target="id-1daaf3a752e74110a37535d69b3d6588">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_rel-0211.xml#rel-0211"/>
-    </sourceConnections>
     <bounds
         x="1070"
         y="240"
@@ -109,27 +100,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="view-10-node-07">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-225aeaf9c2b647a7abda81323af8f70d"
-        source="view-10-node-07"
-        target="id-1daaf3a752e74110a37535d69b3d6588">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_rel-0227.xml#rel-0227"/>
-    </sourceConnections>
-    <bounds
-        x="760"
-        y="240"
-        width="220"
-        height="60"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_node-database-platform.xml#node-database-platform"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="view-10-node-08">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -190,8 +160,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1daaf3a752e74110a37535d69b3d6588"
-      targetConnections="id-225aeaf9c2b647a7abda81323af8f70d id-ee1df62916ad4270a2099c539f194832">
+      id="id-1daaf3a752e74110a37535d69b3d6588">
     <bounds
         x="1080"
         y="152"

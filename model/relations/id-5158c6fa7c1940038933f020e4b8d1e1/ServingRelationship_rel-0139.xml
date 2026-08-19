@@ -4,8 +4,8 @@
     name="Soporta"
     id="rel-0139">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-5fdc342d1a4a4658aba71fe90ec07938.xml#id-5fdc342d1a4a4658aba71fe90ec07938"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-a12a9e7fd6d74ddeb95e785f47c92ff1.xml#id-a12a9e7fd6d74ddeb95e785f47c92ff1"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_businessprocess-customer-relationship-management.xml#businessprocess-customer-relationship-management"/>

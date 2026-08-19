@@ -19,7 +19,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="view-03-node-02"
-      targetConnections="view-03-conn-03 view-03-conn-02">
+      targetConnections="view-03-conn-03">
     <bounds
         x="80"
         y="180"
@@ -176,15 +176,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cd1e28b63c5642d28396d9ec5be0a59c">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="view-03-conn-02"
-        source="id-cd1e28b63c5642d28396d9ec5be0a59c"
-        target="view-03-node-02">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_rel-0140.xml#rel-0140"/>
-    </sourceConnections>
     <bounds
         x="420"
         y="144"

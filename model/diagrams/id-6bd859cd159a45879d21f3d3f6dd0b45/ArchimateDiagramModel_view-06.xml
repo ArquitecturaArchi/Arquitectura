@@ -110,15 +110,6 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_rel-0177.xml#rel-0177"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="view-06-conn-05"
-        source="view-06-node-05"
-        target="id-9f30298c35444dec845a088fc14a90fb">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_rel-0174.xml#rel-0174"/>
-    </sourceConnections>
     <bounds
         x="610"
         y="150"
@@ -180,8 +171,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9f30298c35444dec845a088fc14a90fb"
-      targetConnections="view-06-conn-05">
+      id="id-9f30298c35444dec845a088fc14a90fb">
     <bounds
         x="1140"
         y="62"

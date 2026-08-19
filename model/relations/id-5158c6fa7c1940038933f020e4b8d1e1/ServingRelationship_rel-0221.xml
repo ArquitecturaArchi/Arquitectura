@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-0221">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_node-internet-dmz.xml#node-internet-dmz"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-tuxpan-gateway-portabilidad.xml#applicationcomponent-tuxpan-gateway-portabilidad"/>
+</archimate:ServingRelationship>

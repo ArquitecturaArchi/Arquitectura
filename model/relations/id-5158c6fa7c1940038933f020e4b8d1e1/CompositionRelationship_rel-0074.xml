@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-0074">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_grouping-application-servicios-transversales.xml#grouping-application-servicios-transversales"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-oracle-field-service-cloud-toa.xml#applicationcomponent-oracle-field-service-cloud-toa"/>
+</archimate:CompositionRelationship>

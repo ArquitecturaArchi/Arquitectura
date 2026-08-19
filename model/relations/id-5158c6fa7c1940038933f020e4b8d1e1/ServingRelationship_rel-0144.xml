@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Soporta"
+    id="rel-0144">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-amdocs-crm-móvil.xml#applicationcomponent-amdocs-crm-móvil"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_businessprocess-customer-care.xml#businessprocess-customer-care"/>
+</archimate:ServingRelationship>

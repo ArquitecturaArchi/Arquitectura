@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-viewext-0265">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_grouping-business-tm-forum-capabilities.xml#grouping-business-tm-forum-capabilities"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_capability-enterprise-management-capability.xml#capability-enterprise-management-capability"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-0204">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_grouping-technology-seguridad.xml#grouping-technology-seguridad"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_technologyservice-siem-platform.xml#technologyservice-siem-platform"/>
+</archimate:CompositionRelationship>

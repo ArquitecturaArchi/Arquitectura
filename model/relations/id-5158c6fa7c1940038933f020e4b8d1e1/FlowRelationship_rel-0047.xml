@@ -1,0 +1,11 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-0047">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_businessprocess-problem-trouble-management.xml#businessprocess-problem-trouble-management"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_businessprocess-customer-care.xml#businessprocess-customer-care"/>
+</archimate:FlowRelationship>

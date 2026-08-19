@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-0108">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_grouping-application-externos.xml#grouping-application-externos"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-sso-keylok.xml#applicationcomponent-sso-keylok"/>
+</archimate:CompositionRelationship>

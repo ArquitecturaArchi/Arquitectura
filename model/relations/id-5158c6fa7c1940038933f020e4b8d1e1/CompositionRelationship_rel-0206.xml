@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-0206">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_grouping-technology-datos.xml#grouping-technology-datos"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_technologyservice-data-lake-storage.xml#technologyservice-data-lake-storage"/>
+</archimate:CompositionRelationship>

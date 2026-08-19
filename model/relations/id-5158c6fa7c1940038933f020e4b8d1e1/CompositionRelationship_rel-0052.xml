@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-0052">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_grouping-application-canales.xml#grouping-application-canales"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-sucursal-virtual-claro-vtr.xml#applicationcomponent-sucursal-virtual-claro-vtr"/>
+</archimate:CompositionRelationship>

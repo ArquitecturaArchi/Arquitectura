@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-0078">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_grouping-application-provisioning-móvil.xml#grouping-application-provisioning-móvil"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-cap-pg.xml#applicationcomponent-cap-pg"/>
+</archimate:CompositionRelationship>

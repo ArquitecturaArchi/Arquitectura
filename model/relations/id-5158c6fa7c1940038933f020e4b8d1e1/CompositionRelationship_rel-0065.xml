@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-0065">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_grouping-application-bss-oss-fijo.xml#grouping-application-bss-oss-fijo"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-mediation-fijo-ece.xml#applicationcomponent-mediation-fijo-ece"/>
+</archimate:CompositionRelationship>

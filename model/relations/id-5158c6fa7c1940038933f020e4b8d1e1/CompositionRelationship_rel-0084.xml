@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-0084">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_grouping-application-plataformas-corporativas.xml#grouping-application-plataformas-corporativas"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-ndc.xml#applicationcomponent-ndc"/>
+</archimate:CompositionRelationship>

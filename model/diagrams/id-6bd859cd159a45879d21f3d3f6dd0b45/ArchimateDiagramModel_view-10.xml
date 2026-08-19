@@ -47,6 +47,11 @@
         id="view-10-conn-04"
         source="view-10-node-04"
         target="view-10-node-12">
+      <bendpoints
+          startX="219"
+          startY="253"
+          endX="-436"
+          endY="-6"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_rel-0217.xml#rel-0217"/>
@@ -154,7 +159,7 @@
       targetConnections="view-10-conn-02">
     <bounds
         x="1080"
-        y="150"
+        y="408"
         width="180"
         height="60"/>
     <archimateElement
@@ -180,7 +185,7 @@
       targetConnections="view-10-conn-04">
     <bounds
         x="1080"
-        y="330"
+        y="504"
         width="200"
         height="60"/>
     <archimateElement

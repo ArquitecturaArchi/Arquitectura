@@ -7,8 +7,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="view-07-node-01">
     <bounds
-        x="80"
-        y="170"
+        x="504"
+        y="168"
         width="200"
         height="60"/>
     <archimateElement
@@ -46,8 +46,8 @@
           href="FlowRelationship_rel-0181.xml#rel-0181"/>
     </sourceConnections>
     <bounds
-        x="380"
-        y="170"
+        x="516"
+        y="336"
         width="200"
         height="65"/>
     <archimateElement
@@ -59,8 +59,8 @@
       id="view-07-node-03"
       targetConnections="view-07-conn-01">
     <bounds
-        x="700"
-        y="40"
+        x="876"
+        y="576"
         width="180"
         height="60"/>
     <archimateElement
@@ -72,8 +72,8 @@
       id="view-07-node-04"
       targetConnections="view-07-conn-02">
     <bounds
-        x="700"
-        y="120"
+        x="684"
+        y="576"
         width="180"
         height="60"/>
     <archimateElement
@@ -85,8 +85,8 @@
       id="view-07-node-05"
       targetConnections="view-07-conn-03">
     <bounds
-        x="700"
-        y="200"
+        x="492"
+        y="576"
         width="180"
         height="60"/>
     <archimateElement
@@ -97,8 +97,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="view-07-node-06">
     <bounds
-        x="700"
-        y="280"
+        x="300"
+        y="576"
         width="180"
         height="60"/>
     <archimateElement
@@ -109,8 +109,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="view-07-node-07">
     <bounds
-        x="700"
-        y="360"
+        x="90"
+        y="576"
         width="180"
         height="60"/>
     <archimateElement

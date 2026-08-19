@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datos de la cuenta"
+    id="id-150dd9c379d944ea825d04fa5feb2203">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-f2c2bcfe34b74f6db04e6c26f607eac3.xml#id-f2c2bcfe34b74f6db04e6c26f607eac3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3c4ea091c89d470b9d6cd565375e129d.xml#id-3c4ea091c89d470b9d6cd565375e129d"/>
+</archimate:AssociationRelationship>

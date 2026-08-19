@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infra BRM"
+    id="id-82dbbeb7e7ad4e7f88785a9ec8b1aa3b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5fdc342d1a4a4658aba71fe90ec07938.xml#id-5fdc342d1a4a4658aba71fe90ec07938"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-43d06af9061c4ef58abf771bd8fc0522.xml#id-43d06af9061c4ef58abf771bd8fc0522"/>
+</archimate:ServingRelationship>

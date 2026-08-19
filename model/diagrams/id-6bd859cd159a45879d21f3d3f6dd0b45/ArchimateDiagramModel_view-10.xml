@@ -18,8 +18,17 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="view-10-node-02">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ee1df62916ad4270a2099c539f194832"
+        source="view-10-node-02"
+        target="id-1daaf3a752e74110a37535d69b3d6588">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_rel-0211.xml#rel-0211"/>
+    </sourceConnections>
     <bounds
-        x="60"
+        x="1070"
         y="240"
         width="220"
         height="70"/>
@@ -103,9 +112,9 @@
       id="view-10-node-07">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="view-10-conn-03"
+        id="id-225aeaf9c2b647a7abda81323af8f70d"
         source="view-10-node-07"
-        target="view-10-node-11">
+        target="id-1daaf3a752e74110a37535d69b3d6588">
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_rel-0227.xml#rel-0227"/>
@@ -168,19 +177,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="view-10-node-11"
-      targetConnections="view-10-conn-03">
-    <bounds
-        x="1080"
-        y="240"
-        width="200"
-        height="60"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_applicationcomponent-andes-crm-fijo.xml#applicationcomponent-andes-crm-fijo"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="view-10-node-12"
       targetConnections="view-10-conn-04">
     <bounds
@@ -191,5 +187,18 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_applicationcomponent-aws-datalake.xml#applicationcomponent-aws-datalake"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1daaf3a752e74110a37535d69b3d6588"
+      targetConnections="id-225aeaf9c2b647a7abda81323af8f70d id-ee1df62916ad4270a2099c539f194832">
+    <bounds
+        x="1080"
+        y="152"
+        width="200"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-5fdc342d1a4a4658aba71fe90ec07938.xml#id-5fdc342d1a4a4658aba71fe90ec07938"/>
   </children>
 </archimate:ArchimateDiagramModel>

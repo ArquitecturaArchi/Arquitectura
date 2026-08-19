@@ -103,6 +103,15 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_rel-0241.xml#rel-0241"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5e7d7e018cc6488aa97af405f57bc8c1"
+        source="view-09-node-06"
+        target="id-e26d046ee7454814a158202ebf0a1769">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_rel-0244.xml#rel-0244"/>
+    </sourceConnections>
     <bounds
         x="830"
         y="250"
@@ -123,18 +132,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_applicationcomponent-aura.xml#applicationcomponent-aura"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="view-09-node-08">
-    <bounds
-        x="1110"
-        y="160"
-        width="200"
-        height="60"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_applicationcomponent-andes-crm-fijo.xml#applicationcomponent-andes-crm-fijo"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -159,5 +156,18 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_applicationcomponent-cyera.xml#applicationcomponent-cyera"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e26d046ee7454814a158202ebf0a1769"
+      targetConnections="id-5e7d7e018cc6488aa97af405f57bc8c1">
+    <bounds
+        x="1110"
+        y="354"
+        width="200"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-5fdc342d1a4a4658aba71fe90ec07938.xml#id-5fdc342d1a4a4658aba71fe90ec07938"/>
   </children>
 </archimate:ArchimateDiagramModel>

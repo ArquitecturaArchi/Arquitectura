@@ -19,7 +19,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="view-03-node-02"
-      targetConnections="view-03-conn-02 view-03-conn-03">
+      targetConnections="view-03-conn-03 view-03-conn-02">
     <bounds
         x="80"
         y="180"
@@ -78,27 +78,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="view-03-node-06">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="view-03-conn-02"
-        source="view-03-node-06"
-        target="view-03-node-02">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_rel-0140.xml#rel-0140"/>
-    </sourceConnections>
-    <bounds
-        x="420"
-        y="150"
-        width="200"
-        height="60"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_applicationcomponent-andes-crm-fijo.xml#applicationcomponent-andes-crm-fijo"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="view-03-node-07">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -141,27 +120,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="view-03-node-09">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="view-03-conn-05"
-        source="view-03-node-09"
-        target="view-03-node-04">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_rel-0147.xml#rel-0147"/>
-    </sourceConnections>
-    <bounds
-        x="420"
-        y="420"
-        width="200"
-        height="60"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_applicationcomponent-brm.xml#applicationcomponent-brm"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="view-03-node-10">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -193,5 +151,47 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_applicationcomponent-bus-12c-11g.xml#applicationcomponent-bus-12c-11g"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-321482644c8449f3a72e04a0d1d9b696">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="view-03-conn-05"
+        source="id-321482644c8449f3a72e04a0d1d9b696"
+        target="view-03-node-04">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_rel-0147.xml#rel-0147"/>
+    </sourceConnections>
+    <bounds
+        x="420"
+        y="432"
+        width="200"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-3c4ea091c89d470b9d6cd565375e129d.xml#id-3c4ea091c89d470b9d6cd565375e129d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cd1e28b63c5642d28396d9ec5be0a59c">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="view-03-conn-02"
+        source="id-cd1e28b63c5642d28396d9ec5be0a59c"
+        target="view-03-node-02">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_rel-0140.xml#rel-0140"/>
+    </sourceConnections>
+    <bounds
+        x="420"
+        y="144"
+        width="200"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-5fdc342d1a4a4658aba71fe90ec07938.xml#id-5fdc342d1a4a4658aba71fe90ec07938"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Solicita / entrega capacidad reservada en UIM"
+    name="Asigna /Libera Capacidad UIM"
     id="id-15a0fcaddf444007a76156af9e8ba9bd">
   <source
       xsi:type="archimate:ApplicationService"

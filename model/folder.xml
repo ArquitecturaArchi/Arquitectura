@@ -1,6 +1,6 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arquitectura Empresarial TELCO basada en eTOM - Business, Application y Technology"
+    name="Arquitectura ClaroVTR"
     id="model-etom-telco-claro-reference-v2"
     purpose="Modelo de referencia ArchiMate para una empresa de telecomunicaciones, estructurado sobre eTOM y adaptado a una arquitectura TELCO con componentes de negocio, aplicaciones, tecnología y datos."
     version="5.0.0"/>

@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c6895fe69beb4f9cb74b6b6391416d15">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d5b49da16c644cad917ffa67c8686e63.xml#id-d5b49da16c644cad917ffa67c8686e63"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-apigee.xml#applicationcomponent-apigee"/>
+</archimate:AssociationRelationship>

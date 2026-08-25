@@ -1,0 +1,11 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-efbebf3d53c841d2a7861b3c77132c0f">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-dc2c8318e92841a48a69f64d6b3ca641.xml#id-dc2c8318e92841a48a69f64d6b3ca641"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-mediation-fijo-ocom.xml#applicationcomponent-mediation-fijo-ocom"/>
+</archimate:AggregationRelationship>

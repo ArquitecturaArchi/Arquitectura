@@ -5,10 +5,11 @@
     id="view-09">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="view-09-node-01">
+      id="view-09-node-01"
+      targetConnections="id-2bb3994c851c4e25928f65a5238edf08">
     <bounds
-        x="50"
-        y="160"
+        x="300"
+        y="96"
         width="180"
         height="65"/>
     <archimateElement
@@ -27,9 +28,18 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_rel-0234.xml#rel-0234"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2bb3994c851c4e25928f65a5238edf08"
+        source="view-09-node-02"
+        target="view-09-node-01">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-e500bdd1b8e44a5794ab1efa385ea25c.xml#id-e500bdd1b8e44a5794ab1efa385ea25c"/>
+    </sourceConnections>
     <bounds
-        x="310"
-        y="160"
+        x="300"
+        y="192"
         width="180"
         height="65"/>
     <archimateElement

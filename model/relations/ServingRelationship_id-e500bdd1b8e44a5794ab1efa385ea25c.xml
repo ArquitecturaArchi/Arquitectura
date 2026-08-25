@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e500bdd1b8e44a5794ab1efa385ea25c">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_technologyservice-waf.xml#technologyservice-waf"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_node-internet-dmz.xml#node-internet-dmz"/>
+</archimate:ServingRelationship>

@@ -1370,7 +1370,7 @@
     <bounds
         x="36"
         y="36"
-        width="2065"
+        width="2461"
         height="313"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1404,8 +1404,8 @@
         id="id-304488e57b184ab7abbcdae90176c04b"
         textPosition="1">
       <bounds
-          x="1452"
-          y="60"
+          x="1284"
+          y="48"
           width="120"
           height="169"/>
       <archimateElement
@@ -1473,6 +1473,11 @@
           id="id-99efab69415b480f93b584b3c10e7bc1"
           source="id-83fe51fa5b2f4cc8a000bd948ef690e6"
           target="id-edc1ffc3ad15434f8804a4da6af1d39c">
+        <bendpoints
+            startX="16"
+            startY="192"
+            endX="-192"
+            endY="-162"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-df99234d19dc4e28adb982bf9975f434.xml#id-df99234d19dc4e28adb982bf9975f434"/>

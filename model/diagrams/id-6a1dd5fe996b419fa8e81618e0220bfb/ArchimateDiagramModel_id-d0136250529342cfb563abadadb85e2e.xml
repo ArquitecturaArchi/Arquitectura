@@ -9,7 +9,7 @@
       name="Red Tecnica"
       font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#dbdbdb">
     <bounds
         x="1464"
         y="456"
@@ -224,7 +224,7 @@
       id="id-532a101b65b84f6da1f5e8c78edc890b"
       name="Capa Integración Red Corporativa"
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#dbdbdb">
     <bounds
         x="12"
         y="204"
@@ -404,7 +404,7 @@
       id="id-6c6177df2f40426494635023c3b32d7b"
       name="Capa Aplicaciones Red Corporativa"
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#dbdbdb">
     <bounds
         x="12"
         y="456"
@@ -1001,7 +1001,7 @@
       id="id-65d0d70a39ac4576893a62027925a453"
       name="Capa aplicaciones Web Aprovisionamiento Manual"
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#dbdbdb">
     <bounds
         x="12"
         y="24"

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c1bfba3eeae94135b63bfcb8bbe18cd2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-bus-12c-11g.xml#applicationcomponent-bus-12c-11g"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-8d1ba2ba3e814f8fbc9a23c38a2f6dfc.xml#id-8d1ba2ba3e814f8fbc9a23c38a2f6dfc"/>
+</archimate:ServingRelationship>

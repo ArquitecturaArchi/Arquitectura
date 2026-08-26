@@ -1,10 +1,10 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-bcc7d9156e964c70891b0b2d4eedd0cb">
+    id="id-ae1feb3141824f7ca2525bc01f574fe3">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_applicationcomponent-weblogic-11g-12c.xml#applicationcomponent-weblogic-11g-12c"/>
+      href="ApplicationComponent_applicationcomponent-bus-12c-11g.xml#applicationcomponent-bus-12c-11g"/>
   <target
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-e16d6db5dc124470a36012b4293badfd.xml#id-e16d6db5dc124470a36012b4293badfd"/>

@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provisioning Red FTTH ONF"
     id="id-0d9b058d526a4131b2c9e33dd06c7282">
   <source
       xsi:type="archimate:ApplicationFunction"

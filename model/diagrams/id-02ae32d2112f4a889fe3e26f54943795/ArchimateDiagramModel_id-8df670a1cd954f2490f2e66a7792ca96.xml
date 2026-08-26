@@ -282,7 +282,7 @@
       textAlignment="1">
     <bounds
         x="48"
-        y="552"
+        y="744"
         width="1177"
         height="157"/>
     <children
@@ -315,13 +315,14 @@
       textAlignment="1">
     <bounds
         x="48"
-        y="720"
+        y="912"
         width="1177"
         height="181"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-95d03832fe51461792742d1bda07e924"
-        targetConnections="id-f5c71a5209d647a68719d1e6f47e131c id-dd9e1d904c1e4031a49290b39120a9b0 id-eb164fdf36514a6c94ecb06d2216916d id-59552d52e2f348bb93f7f0877e214aed">
+        targetConnections="id-f5c71a5209d647a68719d1e6f47e131c id-dd9e1d904c1e4031a49290b39120a9b0 id-eb164fdf36514a6c94ecb06d2216916d id-59552d52e2f348bb93f7f0877e214aed"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-945b8128e0ee4d54871d62e4f8521b14"
@@ -342,7 +343,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-2080b22dce0f4cd59186699d75c2aee3">
+        id="id-2080b22dce0f4cd59186699d75c2aee3"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f5c71a5209d647a68719d1e6f47e131c"
@@ -363,7 +365,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-a3c6ad5f068f4c5f8636220f8221182a">
+        id="id-a3c6ad5f068f4c5f8636220f8221182a"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-eb164fdf36514a6c94ecb06d2216916d"
@@ -384,7 +387,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-93656e6bfe5a4639be8f433028fdb015">
+        id="id-93656e6bfe5a4639be8f433028fdb015"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-dd9e1d904c1e4031a49290b39120a9b0"
@@ -405,7 +409,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-af2f742564034801b9d39b97cd043eb2">
+        id="id-af2f742564034801b9d39b97cd043eb2"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-59552d52e2f348bb93f7f0877e214aed"
@@ -514,6 +519,35 @@
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_id-3f60a62ff18f433d988cab9b35163316.xml#id-3f60a62ff18f433d988cab9b35163316"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6ed5425f252d439ea180409b4ab635d8"
+      name="Capa Seguridad"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="576"
+        width="1176"
+        height="144"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-5fd0eadb5a8941dbb54a7c8e5dc768eb"
+        fillColor="#ffffff"
+        imagePath="images/_DysAsKFTEfGvTanaQ0D6OQ.png"
+        imagePosition="4">
+      <features
+          name="imageSource"
+          value="1"/>
+      <bounds
+          x="348"
+          y="48"
+          width="445"
+          height="85"/>
+      <archimateElement
+          xsi:type="archimate:Equipment"
+          href="Equipment_id-cc7d1262430a4cb7b2a3f9e5d09ee789.xml#id-cc7d1262430a4cb7b2a3f9e5d09ee789"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>

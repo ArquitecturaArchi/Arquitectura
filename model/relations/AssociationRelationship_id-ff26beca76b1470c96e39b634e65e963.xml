@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Firewall"
+    id="id-ff26beca76b1470c96e39b634e65e963">
+  <source
+      xsi:type="archimate:Equipment"
+      href="Equipment_id-cc7d1262430a4cb7b2a3f9e5d09ee789.xml#id-cc7d1262430a4cb7b2a3f9e5d09ee789"/>
+  <target
+      xsi:type="archimate:Equipment"
+      href="Equipment_id-cc7d1262430a4cb7b2a3f9e5d09ee789.xml#id-cc7d1262430a4cb7b2a3f9e5d09ee789"/>
+</archimate:AssociationRelationship>

@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-d803125aac2e46b8a23403ed4ff50c66"
       name="Group"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#ffffff">
     <bounds
         x="54"
         y="60"
@@ -87,7 +88,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-a5c23954a80d472ea48df6e1bfe82852"
       name="Group"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#ffffff">
     <bounds
         x="54"
         y="336"

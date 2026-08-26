@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arquitectura BEc Multimarca"
+    name="Arquitectura BEC Multimarca"
     id="id-9f0a059ca4434ef4a6d95217ddf99d03">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -1005,5 +1005,202 @@
           xsi:type="archimate:Location"
           href="Location_id-bf267575883a40d996e957ff03f27947.xml#id-bf267575883a40d996e957ff03f27947"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-7331af84deea48bd856bd882326b4d83"
+      name="Notas del Diagrama"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <features
+        name="labelExpression"
+        value="Arquitectura Sistema BEC Multimarca"/>
+    <bounds
+        x="49"
+        y="1140"
+        width="1392"
+        height="108"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-4baf7d6c16c44fcdaeafc65471427752"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Titulo: "/>
+      <bounds
+          x="12"
+          y="24"
+          width="73"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-42f03ac5b4f14f3cb5a9b53fb09d9e45"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Gerencia:"/>
+      <bounds
+          x="12"
+          y="56"
+          width="73"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-b918d290e5034c8fbca90da76c879699"
+        textAlignment="1">
+      <bounds
+          x="84"
+          y="24"
+          width="253"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-469d977006144186b80bee7925253e85"
+        textAlignment="1">
+      <bounds
+          x="84"
+          y="56"
+          width="253"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-9ef3891dcaa64b58a25c7560ceabf62b"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Fecha Creación:"/>
+      <bounds
+          x="600"
+          y="24"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-a01c36113fba4491bcc00f026de90467"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Fecha Modificación:"/>
+      <bounds
+          x="600"
+          y="56"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-f95168077ccd46a895fb7187f46c5afd"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff"
+        content="Versión">
+      <features
+          name="labelExpression"
+          value="Versión :"/>
+      <bounds
+          x="336"
+          y="24"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-3dcbcf3067fe481e8619185dca7b2d42"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff"
+        content="Versión">
+      <features
+          name="labelExpression"
+          value="Autor:"/>
+      <bounds
+          x="336"
+          y="56"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-14f82a024d074852acf85a82415467e9"
+        textAlignment="1">
+      <bounds
+          x="456"
+          y="24"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-34a573a7f4f24fdab4ffbfb4f86ab66b"
+        textAlignment="1">
+      <bounds
+          x="456"
+          y="56"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-761de7329305477ca39cd4501ebcb415"
+        textAlignment="1">
+      <bounds
+          x="720"
+          y="24"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-a9f0b10addc54baeabb7d0ce2804b098"
+        textAlignment="1">
+      <bounds
+          x="720"
+          y="56"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-3e37c0545c434dc1a29acdceb6cbf861"
+        textAlignment="1">
+      <features
+          name="labelExpression"
+          value="Observaciones"/>
+      <bounds
+          x="864"
+          y="24"
+          width="181"
+          height="69"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5b22974b17854f3f9fdccf9c6339cab1"
+      font="1|Segoe UI|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#0080ff"
+      textPosition="1"
+      imagePath="images/_XhUK0KF8EfGvTanaQ0D6OQ.png">
+    <features
+        name="labelExpression"
+        value="Arquitectura Sistema BEC Multimarca"/>
+    <bounds
+        x="48"
+        width="1391"
+        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>

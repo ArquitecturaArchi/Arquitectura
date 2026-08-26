@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arquitectura OFSC"
-    id="id-603f0cdd1db649f98d08f15605a48f3f">
+    id="id-603f0cdd1db649f98d08f15605a48f3f"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-29825889b7d24c7bae366102879ce9aa"
@@ -11,7 +12,7 @@
       fillColor="#ffffff">
     <bounds
         x="12"
-        y="12"
+        y="48"
         width="1057"
         height="277"/>
     <children
@@ -155,7 +156,7 @@
       fillColor="#ffffff">
     <bounds
         x="12"
-        y="576"
+        y="612"
         width="1057"
         height="241"/>
     <children
@@ -213,7 +214,7 @@
       fillColor="#ffffff">
     <bounds
         x="12"
-        y="300"
+        y="336"
         width="1057"
         height="265"/>
     <children
@@ -253,5 +254,200 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_applicationcomponent-bus-12c-11g.xml#applicationcomponent-bus-12c-11g"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-3580c74f38744531bb063b85a053e06f"
+      name="Notas del Diagrama"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="13"
+        y="864"
+        width="1056"
+        height="108"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-3cfcbd2537ac4090bb751db720307eb0"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Titulo: "/>
+      <bounds
+          x="12"
+          y="24"
+          width="73"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-6dc5271cc22841158a31ec7009e8aeab"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Gerencia:"/>
+      <bounds
+          x="12"
+          y="56"
+          width="73"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-5abbc9f95f7941418a91c3e3c6174837"
+        textAlignment="1">
+      <bounds
+          x="84"
+          y="24"
+          width="253"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-862cebd0c6ec4cc88b064490d018c269"
+        textAlignment="1">
+      <bounds
+          x="84"
+          y="56"
+          width="253"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-34394282de4347a68a0bc4c2b3357a4a"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Fecha Creación:"/>
+      <bounds
+          x="600"
+          y="24"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-cef00efefe1042659b8f10cf498fcfe6"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Fecha Modificación:"/>
+      <bounds
+          x="600"
+          y="56"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-67a91e05d2434ff1a65c8c43904135ae"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff"
+        content="Versión">
+      <features
+          name="labelExpression"
+          value="Versión :"/>
+      <bounds
+          x="336"
+          y="24"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-6882515cb3a5467fafff3465e4d504d0"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff"
+        content="Versión">
+      <features
+          name="labelExpression"
+          value="Autor:"/>
+      <bounds
+          x="336"
+          y="56"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-050efdfb5a624f0fb4ea13afa3c955a6"
+        textAlignment="1">
+      <bounds
+          x="456"
+          y="24"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-c431f1247e624eefa30a4d61370b8c52"
+        textAlignment="1">
+      <bounds
+          x="456"
+          y="56"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-36867f09592d4a38904cc09e685b19c1"
+        textAlignment="1">
+      <bounds
+          x="720"
+          y="24"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-162b2611ca704d04b1649d7aed1d67e2"
+        textAlignment="1">
+      <bounds
+          x="720"
+          y="56"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-6478164ac474419f9ac328ec8f1026f9"
+        textAlignment="1">
+      <features
+          name="labelExpression"
+          value="Observaciones"/>
+      <bounds
+          x="864"
+          y="24"
+          width="181"
+          height="69"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c85958095ea541a898d2633548b95bef"
+      font="1|Segoe UI|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#0080ff"
+      textPosition="1"
+      imagePath="images/_XhUK0KF8EfGvTanaQ0D6OQ.png">
+    <features
+        name="labelExpression"
+        value="Arquitectura Sistema Oracle Field Service (TOA)"/>
+    <bounds
+        x="13"
+        y="12"
+        width="1057"
+        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>

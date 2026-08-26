@@ -9,8 +9,8 @@
       name="Capa Integraciones Red Corporativa"
       textAlignment="1">
     <bounds
-        x="36"
-        y="372"
+        x="48"
+        y="432"
         width="2461"
         height="433"/>
     <children
@@ -257,7 +257,7 @@
       textAlignment="1">
     <bounds
         x="36"
-        y="876"
+        y="900"
         width="2449"
         height="793"/>
     <children
@@ -1445,8 +1445,8 @@
       name="Capa Aplicaciones Internet "
       textAlignment="1">
     <bounds
-        x="36"
-        y="36"
+        x="48"
+        y="72"
         width="2461"
         height="313"/>
     <children
@@ -1573,5 +1573,200 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-f1b4dce6e94f48ca94701cf097dad353.xml#id-f1b4dce6e94f48ca94701cf097dad353"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-d0e2ae3418254875a6ccf18016777b8e"
+      name="Notas del Diagrama"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="36"
+        y="1704"
+        width="2448"
+        height="108"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-15525925d2454553b37971233d9bd125"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Titulo: "/>
+      <bounds
+          x="12"
+          y="24"
+          width="73"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-2fe2d5542fba40fa97c71e7f3687519c"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Gerencia:"/>
+      <bounds
+          x="12"
+          y="56"
+          width="73"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-27dc0da30e0b499b892061dfe0846f95"
+        textAlignment="1">
+      <bounds
+          x="84"
+          y="24"
+          width="253"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-918b35236e7f4c798ccaf949f358dc3a"
+        textAlignment="1">
+      <bounds
+          x="84"
+          y="56"
+          width="253"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-a5b64581d7e648dc9cbda99769552715"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Fecha Creación:"/>
+      <bounds
+          x="600"
+          y="24"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-2a31ac2bd67a4548a9c7a2cd6138624c"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff">
+      <features
+          name="labelExpression"
+          value="Fecha Modificación:"/>
+      <bounds
+          x="600"
+          y="56"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-2a2cafd3bf2c4e52909be73a80370075"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff"
+        content="Versión">
+      <features
+          name="labelExpression"
+          value="Versión :"/>
+      <bounds
+          x="336"
+          y="24"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-2d96ee78a53943a28f3f5bbade6e0c57"
+        fontColor="#ffffff"
+        textAlignment="1"
+        fillColor="#0080ff"
+        content="Versión">
+      <features
+          name="labelExpression"
+          value="Autor:"/>
+      <bounds
+          x="336"
+          y="56"
+          width="121"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-bd94c1e15e324f089b35fc2dfdc4fe55"
+        textAlignment="1">
+      <bounds
+          x="456"
+          y="24"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-35492735fa4b44faa5bf942ede54acbc"
+        textAlignment="1">
+      <bounds
+          x="456"
+          y="56"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-9a4873e9e9834cc599c3c4d840918096"
+        textAlignment="1">
+      <bounds
+          x="720"
+          y="24"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-3f6d165e1e7f4b42b6c61cd2b621af16"
+        textAlignment="1">
+      <bounds
+          x="720"
+          y="56"
+          width="145"
+          height="33"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-e32e3f2d9e8a408cb55607dc16b8313a"
+        textAlignment="1">
+      <features
+          name="labelExpression"
+          value="Observaciones"/>
+      <bounds
+          x="864"
+          y="24"
+          width="181"
+          height="69"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2d0642b570e14d0697d508a50659b22d"
+      font="1|Segoe UI|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#0080ff"
+      textPosition="1"
+      imagePath="images/_XhUK0KF8EfGvTanaQ0D6OQ.png">
+    <features
+        name="labelExpression"
+        value="Arquitectura Sistema Fullstack Oracle "/>
+    <bounds
+        x="48"
+        y="24"
+        width="2473"
+        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>

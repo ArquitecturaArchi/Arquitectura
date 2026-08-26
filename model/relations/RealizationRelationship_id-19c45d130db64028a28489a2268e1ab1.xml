@@ -1,0 +1,11 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-19c45d130db64028a28489a2268e1ab1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-bec-troubleshooting.xml#applicationcomponent-bec-troubleshooting"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-7884898e57214af7acecfbcc6b46cafb.xml#id-7884898e57214af7acecfbcc6b46cafb"/>
+</archimate:RealizationRelationship>

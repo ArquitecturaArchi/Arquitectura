@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SBL_Servidores Base de Datos"
-    id="id-b078e0e1a63c448e836929781a27c48f"/>
+    id="id-b078e0e1a63c448e836929781a27c48f"
+    documentation="edp01vm01-dbvm01.vtr.cl  | 10.XX.XX.18&#xD;&#xA;edp01vm01-dbvm02.vtr.cl  | 10.XX.XX.18&#xD;&#xA;Oracle Database Exadata &#xD;&#xA;Oracle LINUX 7.9&#xD;&#xA;12c"/>

@@ -1,11 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-e42d9aeb929d404c89159018e6da847d">
+    id="id-9d404118ecb649838c25a5f64241e174">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_applicationcomponent-bec-troubleshooting.xml#applicationcomponent-bec-troubleshooting"/>
+      href="ApplicationComponent_applicationcomponent-bus-12c-11g.xml#applicationcomponent-bus-12c-11g"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_applicationcomponent-bus-12c-11g.xml#applicationcomponent-bus-12c-11g"/>
+      href="ApplicationComponent_id-dfafade0c77e43d3bcdb99f209a97019.xml#id-dfafade0c77e43d3bcdb99f209a97019"/>
 </archimate:AssociationRelationship>

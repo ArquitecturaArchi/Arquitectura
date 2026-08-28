@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b32d2a44330b47b4a9724dceff900fac">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_node-oracle-cloud-infrastructure-oci.xml#node-oracle-cloud-infrastructure-oci"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-8cc36c0bad2348d4b0cdf014d024f8ac.xml#id-8cc36c0bad2348d4b0cdf014d024f8ac"/>
+</archimate:CompositionRelationship>

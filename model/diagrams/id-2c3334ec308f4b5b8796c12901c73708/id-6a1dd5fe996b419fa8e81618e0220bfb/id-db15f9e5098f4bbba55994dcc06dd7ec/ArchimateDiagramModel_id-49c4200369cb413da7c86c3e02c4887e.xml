@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arquitectura SIEBEL-UIM-OSM"
+    name="Arquitectura SIEBEL_V1.0"
     id="id-49c4200369cb413da7c86c3e02c4887e">
   <children
       xsi:type="archimate:DiagramModelGroup"

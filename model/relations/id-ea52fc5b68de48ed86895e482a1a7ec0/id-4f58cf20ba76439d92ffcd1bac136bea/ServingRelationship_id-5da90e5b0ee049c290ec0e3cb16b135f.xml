@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lee ACK"
+    id="id-5da90e5b0ee049c290ec0e3cb16b135f">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-d3e1419c33a24f288ae66ce659e00d65.xml#id-d3e1419c33a24f288ae66ce659e00d65"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-209126e96ac7482ebacbd34018d80c7b.xml#id-209126e96ac7482ebacbd34018d80c7b"/>
+</archimate:ServingRelationship>

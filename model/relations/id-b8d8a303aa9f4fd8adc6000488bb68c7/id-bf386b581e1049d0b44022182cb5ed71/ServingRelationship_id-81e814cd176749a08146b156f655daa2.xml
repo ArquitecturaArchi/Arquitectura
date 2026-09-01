@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lee Request"
+    id="id-81e814cd176749a08146b156f655daa2">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-7c8128c159c446b88d2532230d2fd6c1.xml#id-7c8128c159c446b88d2532230d2fd6c1"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-578d0fbd6fdf4bba965b8f9aa8d2bed9.xml#id-578d0fbd6fdf4bba965b8f9aa8d2bed9"/>
+</archimate:ServingRelationship>

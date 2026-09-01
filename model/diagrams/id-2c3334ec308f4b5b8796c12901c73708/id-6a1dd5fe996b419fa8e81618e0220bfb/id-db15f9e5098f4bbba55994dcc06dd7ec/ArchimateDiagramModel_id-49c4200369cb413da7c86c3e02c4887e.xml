@@ -186,7 +186,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-edc1ffc3ad15434f8804a4da6af1d39c"
-          targetConnections="id-86c1886ab82e4f559913e237e628e2fa id-14b2a712226047fda48649706506057a">
+          targetConnections="id-86c1886ab82e4f559913e237e628e2fa">
         <bounds
             x="72"
             y="84"
@@ -380,15 +380,6 @@
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-51468689152e4c38aab63a090f52180a.xml#id-51468689152e4c38aab63a090f52180a"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-446560f10971414e8212f3ab0c23929b"
-          source="id-f11e98f04c6144a099537b0693705225"
-          target="id-8656c0b51e024b5e95d9d45e27347e17">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-6b9ad90f2c53448183f3c086c52c17eb.xml#id-6b9ad90f2c53448183f3c086c52c17eb"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -639,38 +630,6 @@
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_id-0e902069aeba4f51a8c2be16d795b76d.xml#id-0e902069aeba4f51a8c2be16d795b76d"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-8656c0b51e024b5e95d9d45e27347e17"
-        targetConnections="id-446560f10971414e8212f3ab0c23929b">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-14b2a712226047fda48649706506057a"
-          source="id-8656c0b51e024b5e95d9d45e27347e17"
-          target="id-edc1ffc3ad15434f8804a4da6af1d39c">
-        <bendpoints
-            startX="2"
-            startY="-104"
-            endX="-108"
-            endY="307"/>
-        <bendpoints
-            startX="98"
-            startY="-188"
-            endX="-12"
-            endY="223"/>
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-8af81038319a47258ba5e2a042220404.xml#id-8af81038319a47258ba5e2a042220404"/>
-      </sourceConnections>
-      <bounds
-          x="143"
-          y="42"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-261ed44b6bb84fb198eb7e2f4d6b352d.xml#id-261ed44b6bb84fb198eb7e2f4d6b352d"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

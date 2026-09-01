@@ -186,7 +186,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-edc1ffc3ad15434f8804a4da6af1d39c"
-          targetConnections="id-86c1886ab82e4f559913e237e628e2fa id-99efab69415b480f93b584b3c10e7bc1 id-14b2a712226047fda48649706506057a">
+          targetConnections="id-86c1886ab82e4f559913e237e628e2fa id-14b2a712226047fda48649706506057a">
         <bounds
             x="72"
             y="84"
@@ -660,8 +660,8 @@
             endX="-12"
             endY="223"/>
         <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-2969035957be4cbd9398288f0b3fbe53.xml#id-2969035957be4cbd9398288f0b3fbe53"/>
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-8af81038319a47258ba5e2a042220404.xml#id-8af81038319a47258ba5e2a042220404"/>
       </sourceConnections>
       <bounds
           x="143"
@@ -1542,36 +1542,20 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-83fe51fa5b2f4cc8a000bd948ef690e6"
-        font="1|Segoe UI|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-        textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-99efab69415b480f93b584b3c10e7bc1"
-          source="id-83fe51fa5b2f4cc8a000bd948ef690e6"
-          target="id-edc1ffc3ad15434f8804a4da6af1d39c">
-        <bendpoints
-            startX="16"
-            startY="192"
-            endX="-192"
-            endY="-162"/>
-        <bendpoints
-            startX="4"
-            startY="288"
-            endX="12"
-            endY="-77"/>
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-df99234d19dc4e28adb982bf9975f434.xml#id-df99234d19dc4e28adb982bf9975f434"/>
-      </sourceConnections>
+        id="id-8852df03e23b4fbbbbbe63d3bb32b20b"
+        lineColor="#5c5c5c"
+        fillColor="#ffffff">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <bounds
-          x="192"
-          y="46"
-          width="256"
-          height="173"/>
+          x="276"
+          y="48"
+          width="120"
+          height="169"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-f1b4dce6e94f48ca94701cf097dad353.xml#id-f1b4dce6e94f48ca94701cf097dad353"/>
+          href="ApplicationComponent_applicationcomponent-oracle-field-service-cloud-toa.xml#applicationcomponent-oracle-field-service-cloud-toa"/>
     </children>
   </children>
   <children

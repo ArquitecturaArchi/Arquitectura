@@ -1,11 +1,11 @@
-<archimate:FlowRelationship
+<archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="rel-0182">
+    id="id-a45a091bd64e46168d2bc8f7198ed907">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_applicationcomponent-oracle-field-service-cloud-toa.xml#applicationcomponent-oracle-field-service-cloud-toa"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_applicationcomponent-apigee.xml#applicationcomponent-apigee"/>
-</archimate:FlowRelationship>
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-147bdceb34cc4e8ebcc183eee4c8296e.xml#id-147bdceb34cc4e8ebcc183eee4c8296e"/>
+</archimate:AssignmentRelationship>

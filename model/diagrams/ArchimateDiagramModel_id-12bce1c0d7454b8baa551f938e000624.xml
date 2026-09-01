@@ -1,0 +1,23 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for OFSC"
+    id="id-12bce1c0d7454b8baa551f938e000624">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7ae0ae23f81d4e759048cf02408f76e7"
+      lineColor="#5c5c5c"
+      fillColor="#ffffff">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_id-347b54d0ebf14b629c9e0a3a0b7ddb73.xml#id-347b54d0ebf14b629c9e0a3a0b7ddb73"/>
+  </children>
+</archimate:ArchimateDiagramModel>

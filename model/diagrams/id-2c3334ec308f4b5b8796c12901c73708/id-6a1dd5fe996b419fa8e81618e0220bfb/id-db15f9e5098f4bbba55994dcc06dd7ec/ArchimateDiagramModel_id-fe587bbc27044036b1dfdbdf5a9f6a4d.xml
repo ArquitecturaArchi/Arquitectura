@@ -603,17 +603,20 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-a89c8c6f2aaa40909c7519b8d46cef6f"
-        font="1|Segoe UI|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-        textPosition="1">
+        id="id-c294bf7ae8a94ab1b29985b659a82dd2"
+        lineColor="#5c5c5c"
+        fillColor="#ffffff">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <bounds
-          x="192"
-          y="46"
-          width="256"
-          height="173"/>
+          x="240"
+          y="48"
+          width="169"
+          height="169"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-f1b4dce6e94f48ca94701cf097dad353.xml#id-f1b4dce6e94f48ca94701cf097dad353"/>
+          href="ApplicationComponent_applicationcomponent-oracle-field-service-cloud-toa.xml#applicationcomponent-oracle-field-service-cloud-toa"/>
     </children>
   </children>
   <children

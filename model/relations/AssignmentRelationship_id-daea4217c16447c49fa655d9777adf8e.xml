@@ -1,11 +1,11 @@
-<archimate:AccessRelationship
+<archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-bd22a043423841b3bda998e71cb3b6bd">
+    id="id-daea4217c16447c49fa655d9777adf8e">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_applicationcomponent-oracle-field-service-cloud-toa.xml#applicationcomponent-oracle-field-service-cloud-toa"/>
   <target
-      xsi:type="archimate:DataObject"
-      href="DataObject_id-6b34afd96aa94d13907d790fe16872b1.xml#id-6b34afd96aa94d13907d790fe16872b1"/>
-</archimate:AccessRelationship>
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-b7da3d4d6a144f03889662065e62c9cb.xml#id-b7da3d4d6a144f03889662065e62c9cb"/>
+</archimate:AssignmentRelationship>

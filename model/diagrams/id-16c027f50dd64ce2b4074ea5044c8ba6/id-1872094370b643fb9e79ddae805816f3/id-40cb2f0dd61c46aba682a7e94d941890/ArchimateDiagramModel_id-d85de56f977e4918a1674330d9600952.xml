@@ -330,7 +330,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2add116f705b488d8723ea5de9c0001a"
-        targetConnections="id-2bf6aad304a6452e97a916bcbe602dc0"
         lineColor="#5c5c5c"
         fillColor="#ffffff">
       <features
@@ -403,16 +402,6 @@
       <features
           name="deriveElementLineColor"
           value="false"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-2bf6aad304a6452e97a916bcbe602dc0"
-          lineColor="#000000"
-          source="id-5f7e36e4473d46619a92aba03fa42cbb"
-          target="id-2add116f705b488d8723ea5de9c0001a">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-9d8b42d8930c434c9f5e328d1d0c8028.xml#id-9d8b42d8930c434c9f5e328d1d0c8028"/>
-      </sourceConnections>
       <bounds
           x="144"
           y="36"

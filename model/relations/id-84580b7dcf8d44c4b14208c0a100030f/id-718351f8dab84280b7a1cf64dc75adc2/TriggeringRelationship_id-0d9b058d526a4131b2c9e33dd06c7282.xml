@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provisioning Telefonia"
+    id="id-0d9b058d526a4131b2c9e33dd06c7282">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-df7875b3a1c245b99f4a1259ab582221.xml#id-df7875b3a1c245b99f4a1259ab582221"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-bf267575883a40d996e957ff03f27947.xml#id-bf267575883a40d996e957ff03f27947"/>
+</archimate:TriggeringRelationship>

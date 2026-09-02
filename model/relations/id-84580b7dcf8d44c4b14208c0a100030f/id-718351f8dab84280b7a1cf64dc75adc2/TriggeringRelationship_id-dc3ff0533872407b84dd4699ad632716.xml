@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provisioning Video"
+    id="id-dc3ff0533872407b84dd4699ad632716">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-df7875b3a1c245b99f4a1259ab582221.xml#id-df7875b3a1c245b99f4a1259ab582221"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-9e975a49a5c9434e8cc4f548227dadfa.xml#id-9e975a49a5c9434e8cc4f548227dadfa"/>
+</archimate:TriggeringRelationship>

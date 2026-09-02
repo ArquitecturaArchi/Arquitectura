@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lee Response"
+    id="id-acf2ebea18844ee2881f5fb442203b34">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-b8410aa7d93c45d0893bc5ab51db4900.xml#id-b8410aa7d93c45d0893bc5ab51db4900"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-f488c17bb228446d88772c7d4e4dd799.xml#id-f488c17bb228446d88772c7d4e4dd799"/>
+</archimate:ServingRelationship>

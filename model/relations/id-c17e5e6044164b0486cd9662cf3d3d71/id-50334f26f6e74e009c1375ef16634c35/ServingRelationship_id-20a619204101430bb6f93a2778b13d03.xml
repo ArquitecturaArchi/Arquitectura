@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Envia Request"
+    id="id-20a619204101430bb6f93a2778b13d03">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-f488c17bb228446d88772c7d4e4dd799.xml#id-f488c17bb228446d88772c7d4e4dd799"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-7c8128c159c446b88d2532230d2fd6c1.xml#id-7c8128c159c446b88d2532230d2fd6c1"/>
+</archimate:ServingRelationship>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Template INET-INTRA-MDW-CORP"
+    name="Template INET-INTRA-MDW-CORP-TEC"
     id="id-b6c227ce000049088a109aaf60dd3cc3"
     viewpoint="application_cooperation">
   <children
@@ -125,7 +125,7 @@
     <bounds
         x="12"
         y="972"
-        width="2124"
+        width="2520"
         height="192"/>
     <children
         xsi:type="archimate:DiagramModelNote"
@@ -319,18 +319,18 @@
       imagePath="images/_XhUK0KF8EfGvTanaQ0D6OQ.png">
     <features
         name="labelExpression"
-        value="Arquitectura Sistema eCommerce"/>
+        value="Arquitectura &lt;_________>"/>
     <bounds
         x="13"
         y="12"
-        width="2137"
+        width="2497"
         height="37"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-098b6da8237746f7a61bd21d6bdb56ce"
       name="RED TECNICA"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#ffffff">
     <bounds

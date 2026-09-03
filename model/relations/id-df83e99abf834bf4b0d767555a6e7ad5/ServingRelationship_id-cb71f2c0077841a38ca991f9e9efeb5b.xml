@@ -1,11 +1,11 @@
-<archimate:AssociationRelationship
+<archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-3a47826be8114a22abb69e7b4bfc7424">
+    id="id-cb71f2c0077841a38ca991f9e9efeb5b">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-5fdc342d1a4a4658aba71fe90ec07938.xml#id-5fdc342d1a4a4658aba71fe90ec07938"/>
+      href="ApplicationComponent_applicationcomponent-amdocs-crm-móvil.xml#applicationcomponent-amdocs-crm-móvil"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-ca061a86d05b43de87a2742543f67bea.xml#id-ca061a86d05b43de87a2742543f67bea"/>
-</archimate:AssociationRelationship>
+</archimate:ServingRelationship>

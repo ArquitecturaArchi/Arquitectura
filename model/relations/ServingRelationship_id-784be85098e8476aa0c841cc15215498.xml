@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Envio SMS"
+    id="id-784be85098e8476aa0c841cc15215498">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c10ef14773324abab6f235fbff728b32.xml#id-c10ef14773324abab6f235fbff728b32"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3f60a62ff18f433d988cab9b35163316.xml#id-3f60a62ff18f433d988cab9b35163316"/>
+</archimate:ServingRelationship>

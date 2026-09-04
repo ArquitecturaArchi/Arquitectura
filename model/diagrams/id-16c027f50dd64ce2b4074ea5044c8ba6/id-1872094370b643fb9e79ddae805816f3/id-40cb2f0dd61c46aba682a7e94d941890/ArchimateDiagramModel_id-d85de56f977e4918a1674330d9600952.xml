@@ -447,23 +447,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6c54a6a1b9e94a39a3f68c3341d1cfea"
-        lineColor="#5c5c5c"
-        fillColor="#ffffff">
-      <features
-          name="deriveElementLineColor"
-          value="false"/>
-      <bounds
-          x="540"
-          y="36"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-1a8b02956c024c2ea12245f594b0243c.xml#id-1a8b02956c024c2ea12245f594b0243c"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0fdd8b6697224b8a8cb723c2ef82ba30"
         lineColor="#5c5c5c"
         fillColor="#ffffff">

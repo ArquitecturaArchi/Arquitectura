@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Envio Email"
+    id="id-fc792abfe2ab4e7b92ef49ed68144487">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-acoustic.xml#applicationcomponent-acoustic"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3f60a62ff18f433d988cab9b35163316.xml#id-3f60a62ff18f433d988cab9b35163316"/>
+</archimate:ServingRelationship>

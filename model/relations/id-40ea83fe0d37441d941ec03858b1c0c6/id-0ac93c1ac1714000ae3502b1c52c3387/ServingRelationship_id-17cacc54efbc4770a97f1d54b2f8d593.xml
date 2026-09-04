@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-17cacc54efbc4770a97f1d54b2f8d593">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-apps-técnicos-fijo.xml#applicationcomponent-apps-técnicos-fijo"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-83600b49e4094fcfb62e13abccc2e849.xml#id-83600b49e4094fcfb62e13abccc2e849"/>
+</archimate:ServingRelationship>

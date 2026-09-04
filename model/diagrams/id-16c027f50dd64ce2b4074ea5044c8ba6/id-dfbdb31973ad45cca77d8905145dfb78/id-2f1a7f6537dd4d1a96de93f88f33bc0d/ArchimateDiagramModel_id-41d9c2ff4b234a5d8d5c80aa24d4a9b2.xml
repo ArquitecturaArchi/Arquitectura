@@ -938,11 +938,9 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
+      content="Arquitectura Sistema Oracle Field Service (TOA)"
       textPosition="1"
       imagePath="images/_XhUK0KF8EfGvTanaQ0D6OQ.png">
-    <features
-        name="labelExpression"
-        value="Arquitectura Sistema Oracle Field Service (TOA)"/>
     <bounds
         x="36"
         y="12"

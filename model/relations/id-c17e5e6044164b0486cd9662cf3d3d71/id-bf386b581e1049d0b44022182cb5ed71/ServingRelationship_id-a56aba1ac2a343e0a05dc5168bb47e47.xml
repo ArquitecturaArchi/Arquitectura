@@ -4,7 +4,7 @@
     id="id-a56aba1ac2a343e0a05dc5168bb47e47">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-5a63b57862134bdcb964b5ec22cb597c.xml#id-5a63b57862134bdcb964b5ec22cb597c"/>
+      href="ApplicationComponent_applicationcomponent-weblogic-11g-12c.xml#applicationcomponent-weblogic-11g-12c"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_applicationcomponent-apigee.xml#applicationcomponent-apigee"/>

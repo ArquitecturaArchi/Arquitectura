@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arquitectura eComerce_V1.0"
-    id="id-be53b1672ed24627ba1fa4406909550f"
-    viewpoint="application_cooperation">
+    id="id-be53b1672ed24627ba1fa4406909550f">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-2d3ac389690d49ee9e15c9178f04aed7"
@@ -42,7 +41,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a4625aec20c44dfeac980a6f151480e5"
-        targetConnections="id-3c27eca3a16e40da97935670854d8038 id-b3570831db174ef3bb1c486896aaf0d0 id-9fc4e6a2959c40de84487ea0d22011e5 id-1373527a03554d6cbfb466609021f75a"
+        targetConnections="id-3c27eca3a16e40da97935670854d8038 id-b3570831db174ef3bb1c486896aaf0d0 id-9fc4e6a2959c40de84487ea0d22011e5"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         textPosition="1">
       <sourceConnections
@@ -267,23 +266,6 @@
         id="id-f5d734fcf3e0473fac974ffa866cd11d"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-1373527a03554d6cbfb466609021f75a"
-          source="id-f5d734fcf3e0473fac974ffa866cd11d"
-          target="id-a4625aec20c44dfeac980a6f151480e5">
-        <bendpoints
-            startX="288"
-            endX="-696"
-            endY="168"/>
-        <bendpoints
-            startX="780"
-            startY="-168"
-            endX="-204"/>
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-c60f82e3e4324a058a8bb57b818bfdbe.xml#id-c60f82e3e4324a058a8bb57b818bfdbe"/>
-      </sourceConnections>
       <bounds
           x="132"
           y="588"
@@ -573,11 +555,9 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
+      content="Arquitectura Sistema eCommerce"
       textPosition="1"
       imagePath="images/_XhUK0KF8EfGvTanaQ0D6OQ.png">
-    <features
-        name="labelExpression"
-        value="Arquitectura Sistema eCommerce"/>
     <bounds
         x="13"
         y="12"

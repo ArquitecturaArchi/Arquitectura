@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-798baea161024f2f8f15b55c67cfbb04">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-31d74a50830f41ca8e12ba2f7878f696.xml#id-31d74a50830f41ca8e12ba2f7878f696"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-sap-erp.xml#applicationcomponent-sap-erp"/>
+</archimate:ServingRelationship>

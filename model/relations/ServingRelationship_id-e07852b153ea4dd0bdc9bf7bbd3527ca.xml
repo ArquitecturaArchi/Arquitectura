@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Envio Whatsap"
+    id="id-e07852b153ea4dd0bdc9bf7bbd3527ca">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d9cc82b6b67b48babca048a6681eda56.xml#id-d9cc82b6b67b48babca048a6681eda56"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3f60a62ff18f433d988cab9b35163316.xml#id-3f60a62ff18f433d988cab9b35163316"/>
+</archimate:ServingRelationship>

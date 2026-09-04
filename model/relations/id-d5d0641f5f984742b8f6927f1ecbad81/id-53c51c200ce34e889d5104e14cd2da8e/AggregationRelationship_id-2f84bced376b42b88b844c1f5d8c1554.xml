@@ -1,0 +1,11 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2f84bced376b42b88b844c1f5d8c1554">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-3840bc2388d74abf9b698f6453e009bc.xml#id-3840bc2388d74abf9b698f6453e009bc"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_applicationcomponent-apps-técnicos-fijo.xml#applicationcomponent-apps-técnicos-fijo"/>
+</archimate:AggregationRelationship>

@@ -1701,11 +1701,9 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#0080ff"
+      content="Arquitectura Sistema Fullstack Oracle "
       textPosition="1"
       imagePath="images/_XhUK0KF8EfGvTanaQ0D6OQ.png">
-    <features
-        name="labelExpression"
-        value="Arquitectura Sistema Fullstack Oracle "/>
     <bounds
         x="48"
         y="24"

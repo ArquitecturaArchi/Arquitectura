@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OSB_CORP"
+    id="id-413aa91fc70a4aa78daa79145da8101f">
+  <properties
+      key="Version"
+      value="3.10.3.6"/>
+</archimate:ApplicationComponent>

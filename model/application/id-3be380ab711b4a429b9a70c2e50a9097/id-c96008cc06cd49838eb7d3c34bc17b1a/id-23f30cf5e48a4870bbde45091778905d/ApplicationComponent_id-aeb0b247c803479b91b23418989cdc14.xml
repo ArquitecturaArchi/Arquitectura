@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB_IVR"
+    id="id-aeb0b247c803479b91b23418989cdc14">
+  <properties
+      key="Version"
+      value="12c"/>
+  <properties
+      key="Rama"
+      value="12.2.1.4"/>
+</archimate:ApplicationComponent>

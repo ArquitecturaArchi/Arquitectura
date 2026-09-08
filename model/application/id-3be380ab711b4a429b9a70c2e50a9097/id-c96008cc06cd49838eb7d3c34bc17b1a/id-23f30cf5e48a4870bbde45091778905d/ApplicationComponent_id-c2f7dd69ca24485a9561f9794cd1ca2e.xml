@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB_PORTABILIDAD"
+    id="id-c2f7dd69ca24485a9561f9794cd1ca2e">
+  <properties
+      key="Version"
+      value="12c"/>
+  <properties
+      key="Rama"
+      value="12.2.1.4"/>
+</archimate:ApplicationComponent>

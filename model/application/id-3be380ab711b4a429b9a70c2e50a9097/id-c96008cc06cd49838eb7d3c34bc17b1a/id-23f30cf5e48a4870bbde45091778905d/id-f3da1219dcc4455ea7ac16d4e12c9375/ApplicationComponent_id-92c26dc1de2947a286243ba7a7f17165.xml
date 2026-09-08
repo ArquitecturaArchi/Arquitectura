@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB_PUBLIC"
+    id="id-92c26dc1de2947a286243ba7a7f17165">
+  <properties
+      key="Version"
+      value="12.2.1.4"/>
+</archimate:ApplicationComponent>

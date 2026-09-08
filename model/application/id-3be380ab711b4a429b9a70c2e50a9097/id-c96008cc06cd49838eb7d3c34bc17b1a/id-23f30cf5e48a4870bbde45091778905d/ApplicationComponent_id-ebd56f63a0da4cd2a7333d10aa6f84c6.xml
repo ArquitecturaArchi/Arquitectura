@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESB ONE"
+    id="id-ebd56f63a0da4cd2a7333d10aa6f84c6">
+  <properties
+      key="Version"
+      value="12c"/>
+  <properties
+      key="Rama"
+      value="12.2.1.4"/>
+</archimate:ApplicationComponent>
